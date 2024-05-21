@@ -1,5 +1,4 @@
-I use linux, i want to move completely to neovim from vscode
-
+Electronic and Information Engineering Student
 <!---
 mxwlc/mxwlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
